@@ -1,0 +1,7 @@
+[
+{ "id": 1, "name": "Ariana Cruz", "age": 20, "course": "Computer Science", "gpa": 3.9, "photo": "https://via.placeholder.com/400x300?text=Ariana" },
+{ "id": 2, "name": "Marco Reyes", "age": 21, "course": "Information Technology", "gpa": 3.6, "photo": "https://via.placeholder.com/400x300?text=Marco" },
+{ "id": 3, "name": "Liza Santos", "age": 19, "course": "Software Engineering", "gpa": 3.8, "photo": "https://via.placeholder.com/400x300?text=Liza" },
+{ "id": 4, "name": "Jun Dela Cruz", "age": 22, "course": "Computer Science", "gpa": 3.2, "photo": "https://via.placeholder.com/400x300?text=Jun" },
+{ "id": 5, "name": "Paula Lim", "age": 20, "course": "Multimedia Arts", "gpa": 3.95, "photo": "https://via.placeholder.com/400x300?text=Paula" }
+]
